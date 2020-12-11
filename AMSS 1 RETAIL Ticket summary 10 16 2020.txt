@@ -1,0 +1,36 @@
+FENGHE 
+STEP 3 
+-https://github.com/bridge5/service-imvretail/issues/611
+
+STEP 5 
+- https://github.com/bridge5/service-imvretail/issues/540
+
+STEP 6 
+- https://github.com/bridge5/service-imvretail/issues/532
+
+ANALYSIS REPORT 
+- https://github.com/bridge5/service-imvretail/issues/608    //May && yingcheng
+- https://github.com/bridge5/service-imvretail/issues/607    //Agustini
+- https://github.com/bridge5/amss-api-issues/issues/4
+
+ANALYSIS CASHFLOW 
+- https://github.com/bridge5/service-imvretail/issues/429
+- https://github.com/bridge5/service-imvretail/issues/594
+- https://github.com/bridge5/service-imvretail/issues/558
+
+SENSITIVITY 
+- https://github.com/bridge5/service-imvretail/issues/542
+- https://github.com/bridge5/service-imvretail/issues/546
+
+RETURN INDICATOR 
+-https://github.com/bridge5/service-imvretail/issues/628 // pending
+- https://github.com/bridge5/service-imvretail/issues/606 //pending
+
+
+YINGCHENG
+REPORT CASHFLOW 
+- https://github.com/bridge5/amss-api-issues/issues/9
+
+REPORT ANALYSIS 
+- https://github.com/bridge5/amss-api-issues/issues/5
+

@@ -1,0 +1,31 @@
+综合体敏感性分析：
+暂时设计：
+参数1：综合体时间线（follow Sales/ OfficeRetail中的任意一个，须有起始和结束时间点）
+参数2 (讨论)：除成本以外的加总cashflow （融资 非融资）
+参数2（新加）： 主营业务收入 (利润表口径)，主营业务成本（利润表口径），其他全部科目加总 （各种税和费用，以及营业外收入支出投资收益资产损失等等）（利润表口径）
+参数3：成本cashflow (土地成本，开发成本)
+参数4：敏感性参数，示例为：
+let sensitivityRequest = {
+      "acquisitionCost": [
+        -0.2，-0.1，0，0.1，0.2
+      ],
+      "developmentCost": [
+        0
+      ],
+      //"landLoanInterest": [
+       // 0
+      //],
+      //"devLoanInterest": [
+      //  0
+      //],
+      //"cashDeficiencyLoanInterest": [
+      //  0
+      //],
+      //"termLoanInterest": [
+      //  0
+      //],//this four not in use now but will be implemented in later version
+}
+
+
+返回格式为 Array of Object,因为现阶段只有单变量，所以array的顺序与上文sensitivityRequest里面，
+数组大小不为1的数组相对应，object包含irr,roe， ebidta和利润率等指标

@@ -1,0 +1,10 @@
+
+rental/retail addon:
+
+1. CAGR 返回
+2. project Rental / management Fee 填数
+3. retail addon leasing commission 移除office相关参数
+4. retail addon rental output 移除office相关输出
+5. 准确性
+6. throw nodejs exception when fail
+7.附加税税收三部分
